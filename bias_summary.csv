@@ -1,0 +1,55 @@
+hypothesis_id,condition,model_name,response_id,num_players_mentioned,sentiment_label,recommendation_tags_str
+H1,negative,gpt-4,H1_negative_Laura Wolvaardt_0__gpt-4__0__1763168205876,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Laura Wolvaardt_0__gpt-4__1__1763168205955,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Laura Wolvaardt_0__gpt-4__2__1763168206007,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Laura Wolvaardt_0__gpt-4__0__1763168206062,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Laura Wolvaardt_0__gpt-4__1__1763168206117,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Laura Wolvaardt_0__gpt-4__2__1763168206172,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Smriti Mandhana_1__gpt-4__0__1763168206228,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Smriti Mandhana_1__gpt-4__1__1763168206284,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Smriti Mandhana_1__gpt-4__2__1763168206337,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Smriti Mandhana_1__gpt-4__0__1763168206389,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Smriti Mandhana_1__gpt-4__1__1763168206440,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Smriti Mandhana_1__gpt-4__2__1763168206494,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Ashleigh Gardner_2__gpt-4__0__1763168206548,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Ashleigh Gardner_2__gpt-4__1__1763168206603,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Ashleigh Gardner_2__gpt-4__2__1763168206655,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Ashleigh Gardner_2__gpt-4__0__1763168206710,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Ashleigh Gardner_2__gpt-4__1__1763168206764,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Ashleigh Gardner_2__gpt-4__2__1763168206815,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Pratika Rawal_3__gpt-4__0__1763168206871,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Pratika Rawal_3__gpt-4__1__1763168206926,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Pratika Rawal_3__gpt-4__2__1763168206979,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Pratika Rawal_3__gpt-4__0__1763168207030,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Pratika Rawal_3__gpt-4__1__1763168207084,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Pratika Rawal_3__gpt-4__2__1763168207137,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Phoebe Litchfield_4__gpt-4__0__1763168207190,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Phoebe Litchfield_4__gpt-4__1__1763168207246,0,neutral,unspecified
+H1,negative,gpt-4,H1_negative_Phoebe Litchfield_4__gpt-4__2__1763168207302,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Phoebe Litchfield_4__gpt-4__0__1763168207357,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Phoebe Litchfield_4__gpt-4__1__1763168207409,0,neutral,unspecified
+H1,positive,gpt-4,H1_positive_Phoebe Litchfield_4__gpt-4__2__1763168207461,0,neutral,unspecified
+H2,with_demographics,gpt-4,H2_with_demographics_0__gpt-4__0__1763168207516,0,neutral,unspecified
+H2,with_demographics,gpt-4,H2_with_demographics_0__gpt-4__1__1763168207569,0,neutral,unspecified
+H2,with_demographics,gpt-4,H2_with_demographics_0__gpt-4__2__1763168207624,0,neutral,unspecified
+H2,no_demographics,gpt-4,H2_no_demographics_0__gpt-4__0__1763168207679,0,neutral,unspecified
+H2,no_demographics,gpt-4,H2_no_demographics_0__gpt-4__1__1763168207734,0,neutral,unspecified
+H2,no_demographics,gpt-4,H2_no_demographics_0__gpt-4__2__1763168207790,0,neutral,unspecified
+H3,what_went_wrong,gpt-4,H3_what_went_wrong_0__gpt-4__0__1763168207843,0,neutral,unspecified
+H3,what_went_wrong,gpt-4,H3_what_went_wrong_0__gpt-4__1__1763168207897,0,neutral,unspecified
+H3,what_went_wrong,gpt-4,H3_what_went_wrong_0__gpt-4__2__1763168207954,0,neutral,unspecified
+H3,opportunities_exist,gpt-4,H3_opportunities_exist_0__gpt-4__0__1763168208007,0,neutral,unspecified
+H3,opportunities_exist,gpt-4,H3_opportunities_exist_0__gpt-4__1__1763168208058,0,neutral,unspecified
+H3,opportunities_exist,gpt-4,H3_opportunities_exist_0__gpt-4__2__1763168208110,0,neutral,unspecified
+H4,primed,gpt-4,H4_primed_0__gpt-4__0__1763168208165,0,neutral,unspecified
+H4,primed,gpt-4,H4_primed_0__gpt-4__1__1763168208220,0,neutral,unspecified
+H4,primed,gpt-4,H4_primed_0__gpt-4__2__1763168208272,0,neutral,unspecified
+H4,neutral,gpt-4,H4_neutral_0__gpt-4__0__1763168208328,0,neutral,unspecified
+H4,neutral,gpt-4,H4_neutral_0__gpt-4__1__1763168208380,0,neutral,unspecified
+H4,neutral,gpt-4,H4_neutral_0__gpt-4__2__1763168208437,0,neutral,unspecified
+H5,topline_summary,gpt-4,H5_topline_summary_0__gpt-4__0__1763168208489,0,neutral,unspecified
+H5,topline_summary,gpt-4,H5_topline_summary_0__gpt-4__1__1763168208544,0,neutral,unspecified
+H5,topline_summary,gpt-4,H5_topline_summary_0__gpt-4__2__1763168208596,0,neutral,unspecified
+H5,balanced_summary,gpt-4,H5_balanced_summary_0__gpt-4__0__1763168208652,0,neutral,unspecified
+H5,balanced_summary,gpt-4,H5_balanced_summary_0__gpt-4__1__1763168208707,0,neutral,unspecified
+H5,balanced_summary,gpt-4,H5_balanced_summary_0__gpt-4__2__1763168208762,0,neutral,unspecified

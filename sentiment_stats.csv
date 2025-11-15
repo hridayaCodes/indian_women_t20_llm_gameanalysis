@@ -1,0 +1,11 @@
+hypothesis_id,condition,model_name,sentiment_label,count
+H1,negative,gpt-4,neutral,15
+H1,positive,gpt-4,neutral,15
+H2,no_demographics,gpt-4,neutral,3
+H2,with_demographics,gpt-4,neutral,3
+H3,opportunities_exist,gpt-4,neutral,3
+H3,what_went_wrong,gpt-4,neutral,3
+H4,neutral,gpt-4,neutral,3
+H4,primed,gpt-4,neutral,3
+H5,balanced_summary,gpt-4,neutral,3
+H5,topline_summary,gpt-4,neutral,3
